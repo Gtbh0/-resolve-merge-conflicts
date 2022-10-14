@@ -1,4 +1,3 @@
-<<<<<<< my-resume
+# References
 Hola Mundo
-=======
->>>>>>> main
+* octocat 1 😈
